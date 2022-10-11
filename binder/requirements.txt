@@ -1,5 +1,5 @@
 pyspark==3.0.1
 pandas
-kensu
+kensu==2.0.0
 spylon_kernel 
 jupyter-server-proxy
