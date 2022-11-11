@@ -1,4 +1,4 @@
-pyspark==3.0.1
+pyspark==3.2.2
 pandas
 kensu==2.0.0
 spylon_kernel 
